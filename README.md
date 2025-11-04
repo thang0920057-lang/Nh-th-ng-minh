@@ -34,12 +34,13 @@ Hệ thống nhà thông minh tích hợp các tính năng hiện đại như m�
 - 💡 Đèn và còi báo động
 - 🖥️ Arduino
 - ⚡ Động cơ servo
+- 📟 LCD 12
 ## 💾 Phần mềm:
 - 🐍 Thư viện face_recognition và OpenCV trong Python
 - 📲 Ứng dụng pushover
 # 📋 Yêu cầu hệ thống
 ## ⚙️ Phần cứng:
-- 🖥️ Arduino, 3 đèn led, còi, cảm biến khí gas, cảm biến ánh sáng, 3 servo, đầu lọc thẻ từ
+- 🖥️ Arduino, 3 đèn led, còi, cảm biến khí gas, cảm biến ánh sáng, 3 servo, đầu lọc thẻ từ, 2 LCD12
 - 🔌 Cáp USB để kết nối máy tính với Arduino
 ## 💾 Phần mềm:
 - 🐍 Python (xử lý nhận diện khuôn mặt, điều khiển cửa và thực hiện gửi thông báo)
