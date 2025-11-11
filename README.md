@@ -99,5 +99,5 @@ Cài đặt python về máy và cài các thư viện phía trên bằng pip
 - Chỉ cần lấy tay che toàn bộ cảm biến hoặc để cảm biến vào nơi thiếu ánh sáng.
 - Đèn sẽ tự động bật.
 # 🖼️ Poster
-![Poster_CNTT5_ThanhNguyen](https://github.com/user-attachments/assets/88c03204-924c-4363-b59b-c254b1a99b39)
+![Poster_CNTT5_ThanhNguyen](https://github.com/thang0920057-lang/Nh-th-ng-minh/blob/main/anhposter.png.png)
 
